@@ -26,11 +26,6 @@ The report includes screenshots and results of:
 ## Disclaimer
 This project was conducted for educational purposes only. All data collected is publicly available. No ethical guidelines were violated.
 
-## 📂 Download
-📄 [Download Full Report PDF](Attia_MiniProject3_Part1.pdf)
-📝 [Download Editable DOCX](Attia_MiniProject3_Part%201.docx)
-
-
 ## Author
 **Attia Rawaid**  
 Cyber Security Student | Women University Swabi
