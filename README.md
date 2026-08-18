@@ -27,7 +27,7 @@ The report includes screenshots and results of:
 This project was conducted for educational purposes only. All data collected is publicly available. No ethical guidelines were violated.
 
 ## 📂 Download
-📄 [Download Full Report PDF](Attia-MiniProject3-OSINT-Reconnaissance)
+📄 [Download Full Report PDF](Attia_MiniProject3_Part 1.docx)
 
 ## Author
 **Attia Rawaid**  
